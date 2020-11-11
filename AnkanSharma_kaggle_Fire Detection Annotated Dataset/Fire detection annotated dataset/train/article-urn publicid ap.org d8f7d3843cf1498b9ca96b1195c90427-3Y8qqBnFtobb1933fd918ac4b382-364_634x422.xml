@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>article-urn publicid ap.org d8f7d3843cf1498b9ca96b1195c90427-3Y8qqBnFtobb1933fd918ac4b382-364_634x422.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\train\article-urn publicid ap.org d8f7d3843cf1498b9ca96b1195c90427-3Y8qqBnFtobb1933fd918ac4b382-364_634x422.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>66</ymin>
+			<xmax>598</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

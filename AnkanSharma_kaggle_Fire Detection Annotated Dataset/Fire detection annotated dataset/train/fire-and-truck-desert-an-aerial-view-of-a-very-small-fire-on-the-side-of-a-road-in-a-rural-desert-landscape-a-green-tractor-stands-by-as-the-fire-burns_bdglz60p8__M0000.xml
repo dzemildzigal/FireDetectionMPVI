@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>fire-and-truck-desert-an-aerial-view-of-a-very-small-fire-on-the-side-of-a-road-in-a-rural-desert-landscape-a-green-tractor-stands-by-as-the-fire-burns_bdglz60p8__M0000.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\train\fire-and-truck-desert-an-aerial-view-of-a-very-small-fire-on-the-side-of-a-road-in-a-rural-desert-landscape-a-green-tractor-stands-by-as-the-fire-burns_bdglz60p8__M0000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>195</ymin>
+			<xmax>295</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

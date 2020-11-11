@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>burning-house2.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\train\burning-house2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>5</ymin>
+			<xmax>473</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

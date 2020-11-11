@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>California+Wildfires_Rob072616e+(1).jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\train\California+Wildfires_Rob072616e+(1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1238</xmin>
+			<ymin>453</ymin>
+			<xmax>1909</xmax>
+			<ymax>892</ymax>
+		</bndbox>
+	</object>
+</annotation>

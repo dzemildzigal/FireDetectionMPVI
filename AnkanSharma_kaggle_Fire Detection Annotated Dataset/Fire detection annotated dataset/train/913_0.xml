@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>913_0.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\train\913_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>253</ymin>
+			<xmax>600</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>X-Files_Office_on_fire.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\test\X-Files_Office_on_fire.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>604</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>10</ymin>
+			<xmax>348</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

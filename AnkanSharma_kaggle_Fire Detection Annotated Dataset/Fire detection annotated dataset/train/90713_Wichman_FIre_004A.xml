@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>90713_Wichman_FIre_004A.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\train\90713_Wichman_FIre_004A.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>597</xmin>
+			<ymin>516</ymin>
+			<xmax>1478</xmax>
+			<ymax>1151</ymax>
+		</bndbox>
+	</object>
+</annotation>

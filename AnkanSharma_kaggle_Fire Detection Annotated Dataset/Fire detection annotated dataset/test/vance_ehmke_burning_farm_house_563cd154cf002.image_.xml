@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>vance_ehmke_burning_farm_house_563cd154cf002.image_.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\test\vance_ehmke_burning_farm_house_563cd154cf002.image_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>178</ymin>
+			<xmax>761</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

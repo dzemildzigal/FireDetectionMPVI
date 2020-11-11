@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>800px-Fires_cross_a_hill_in_SoCal_October_2007.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\train\800px-Fires_cross_a_hill_in_SoCal_October_2007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>535</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>321</ymin>
+			<xmax>316</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

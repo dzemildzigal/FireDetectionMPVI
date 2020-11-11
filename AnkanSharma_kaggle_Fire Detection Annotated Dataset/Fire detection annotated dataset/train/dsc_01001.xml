@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dsc_01001.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\train\dsc_01001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3872</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>46</ymin>
+			<xmax>3811</xmax>
+			<ymax>1734</ymax>
+		</bndbox>
+	</object>
+</annotation>

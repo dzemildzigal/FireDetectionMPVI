@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>wildfire-coverage-521x308.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\test\wildfire-coverage-521x308.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>308</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>124</ymin>
+			<xmax>514</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

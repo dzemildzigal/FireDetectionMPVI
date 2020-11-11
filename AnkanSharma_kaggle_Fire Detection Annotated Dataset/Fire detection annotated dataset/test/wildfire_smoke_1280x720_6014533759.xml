@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>wildfire_smoke_1280x720_6014533759.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\test\wildfire_smoke_1280x720_6014533759.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>273</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>130</ymin>
+			<xmax>243</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>98</ymin>
+			<xmax>348</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

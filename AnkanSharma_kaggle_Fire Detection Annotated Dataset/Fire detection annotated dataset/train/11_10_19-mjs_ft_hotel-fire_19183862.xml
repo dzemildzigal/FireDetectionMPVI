@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>11_10_19-mjs_ft_hotel-fire_19183862.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\train\11_10_19-mjs_ft_hotel-fire_19183862.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>343</ymin>
+			<xmax>455</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

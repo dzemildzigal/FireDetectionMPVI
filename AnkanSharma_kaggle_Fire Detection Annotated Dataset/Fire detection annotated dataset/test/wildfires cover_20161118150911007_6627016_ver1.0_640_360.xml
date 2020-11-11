@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>wildfires cover_20161118150911007_6627016_ver1.0_640_360.jpg</filename>
+	<path>C:\Users\Ankan\Downloads\Custom dataset\test\wildfires cover_20161118150911007_6627016_ver1.0_640_360.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>141</ymin>
+			<xmax>640</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>
